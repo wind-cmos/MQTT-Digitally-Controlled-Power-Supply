@@ -1,0 +1,18 @@
+Record=TopLevelDocument|FileName=BOOT_MODE_BUFFER&SWITCHES.SchDoc|SheetNumber=11
+Record=NoMainPathDocument|SourceDocument=BOOT_MODE_BUFFER&SWITCHES.SchDoc|FileName=bootload_wifi.SchDoc|SheetNumber=15
+Record=NoMainPathDocument|SourceDocument=BOOT_MODE_BUFFER&SWITCHES.SchDoc|FileName=CAN.SchDoc|SheetNumber=8
+Record=NoMainPathDocument|SourceDocument=BOOT_MODE_BUFFER&SWITCHES.SchDoc|FileName=DDR4.SchDoc|SheetNumber=13
+Record=NoMainPathDocument|SourceDocument=BOOT_MODE_BUFFER&SWITCHES.SchDoc|FileName=EMMC.SchDoc|SheetNumber=9
+Record=NoMainPathDocument|SourceDocument=BOOT_MODE_BUFFER&SWITCHES.SchDoc|FileName=Ethernet_PHY_1.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=BOOT_MODE_BUFFER&SWITCHES.SchDoc|FileName=Ethernet_PHY_2.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=BOOT_MODE_BUFFER&SWITCHES.SchDoc|FileName=IO_Connectors.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=BOOT_MODE_BUFFER&SWITCHES.SchDoc|FileName=MCU.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=BOOT_MODE_BUFFER&SWITCHES.SchDoc|FileName=MIMP.SchDoc|SheetNumber=12
+Record=NoMainPathDocument|SourceDocument=BOOT_MODE_BUFFER&SWITCHES.SchDoc|FileName=OSPI_FLASH¡¢EEPROM.SchDoc|SheetNumber=10
+Record=NoMainPathDocument|SourceDocument=BOOT_MODE_BUFFER&SWITCHES.SchDoc|FileName=PERIPHERAL POWER SUPPLY.SchDoc|SheetNumber=17
+Record=NoMainPathDocument|SourceDocument=BOOT_MODE_BUFFER&SWITCHES.SchDoc|FileName=SDRAM£¬JTAG£¬I2C EEPROM£¬SD Card.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=BOOT_MODE_BUFFER&SWITCHES.SchDoc|FileName=SoC POWER SUPPLY.SchDoc|SheetNumber=16
+Record=NoMainPathDocument|SourceDocument=BOOT_MODE_BUFFER&SWITCHES.SchDoc|FileName=sys-power.SchDoc|SheetNumber=14
+Record=NoMainPathDocument|SourceDocument=BOOT_MODE_BUFFER&SWITCHES.SchDoc|FileName=TYPE-C.SchDoc|SheetNumber=7
+Record=NoMainPathDocument|SourceDocument=BOOT_MODE_BUFFER&SWITCHES.SchDoc|FileName=USB,TFT LCD,touchscreen,audio amplifier.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=BOOT_MODE_BUFFER&SWITCHES.SchDoc|FileName=VCC3V3_SYS & VCC_5V0 POWER SUPPLY.SchDoc|SheetNumber=18

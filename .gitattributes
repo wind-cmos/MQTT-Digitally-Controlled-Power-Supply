@@ -5,3 +5,5 @@
 
 # Preserve original Altium project/export bytes without line-ending conversion.
 MMT/** -text
+MCU/** -text
+BACK/** -text
