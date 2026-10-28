@@ -1,0 +1,79 @@
+Protel Design System Design Rule Check
+PCB File : D:\桌面\work\project\PCB\AD\数控电源\MMT\数控电源.PcbDoc
+Date     : 2026/9/16
+Time     : 22:55:00
+
+Processing Rule : Clearance Constraint (Gap=10mil) (All),(All)
+   Violation between Clearance Constraint: (9.75mil < 10mil) Between Pad U6-1(3979.7mil,5804mil) on Top Layer 1 And Region (0 hole(s)) Top Layer 1 
+   Violation between Clearance Constraint: (9.2mil < 10mil) Between Pad U6-1(3979.7mil,5804mil) on Top Layer 1 And Track (3999.4mil,5775.858mil)(3999.4mil,5804mil) on Top Layer 1 
+   Violation between Clearance Constraint: (9.45mil < 10mil) Between Pad U6-10(4019.1mil,5878mil) on Top Layer 1 And Region (0 hole(s)) Top Layer 1 
+   Violation between Clearance Constraint: (9.45mil < 10mil) Between Pad U6-11(3999.4mil,5878mil) on Top Layer 1 And Region (0 hole(s)) Top Layer 1 
+   Violation between Clearance Constraint: (9.75mil < 10mil) Between Pad U6-12(3979.7mil,5878mil) on Top Layer 1 And Region (0 hole(s)) Top Layer 1 
+   Violation between Clearance Constraint: (9.45mil < 10mil) Between Pad U6-2(3999.4mil,5804mil) on Top Layer 1 And Region (0 hole(s)) Top Layer 1 
+   Violation between Clearance Constraint: (9.2mil < 10mil) Between Pad U6-2(3999.4mil,5804mil) on Top Layer 1 And Track (3964mil,5804mil)(3979.7mil,5804mil) on Top Layer 1 
+   Violation between Clearance Constraint: (9.45mil < 10mil) Between Pad U6-3(4019.1mil,5804mil) on Top Layer 1 And Region (0 hole(s)) Top Layer 1 
+   Violation between Clearance Constraint: (9.2mil < 10mil) Between Pad U6-3(4019.1mil,5804mil) on Top Layer 1 And Track (3999.4mil,5775.858mil)(3999.4mil,5804mil) on Top Layer 1 
+   Violation between Clearance Constraint: (9.2mil < 10mil) Between Pad U6-4(4038.7mil,5804mil) on Top Layer 1 And Track (4058.4mil,5786.6mil)(4058.4mil,5804mil) on Top Layer 1 
+   Violation between Clearance Constraint: (9.45mil < 10mil) Between Pad U6-5(4058.4mil,5804mil) on Top Layer 1 And Region (0 hole(s)) Top Layer 1 
+   Violation between Clearance Constraint: (9.2mil < 10mil) Between Pad U6-5(4058.4mil,5804mil) on Top Layer 1 And Track (4078.1mil,5804mil)(4078.6mil,5804mil) on Top Layer 1 
+   Violation between Clearance Constraint: (9.7mil < 10mil) Between Pad U6-5(4058.4mil,5804mil) on Top Layer 1 And Track (4078.6mil,5804mil)(4093.6mil,5789mil) on Top Layer 1 
+   Violation between Clearance Constraint: (9.75mil < 10mil) Between Pad U6-6(4078.1mil,5804mil) on Top Layer 1 And Region (0 hole(s)) Top Layer 1 
+   Violation between Clearance Constraint: (9.2mil < 10mil) Between Pad U6-6(4078.1mil,5804mil) on Top Layer 1 And Track (4058.4mil,5786.6mil)(4058.4mil,5804mil) on Top Layer 1 
+   Violation between Clearance Constraint: (9.75mil < 10mil) Between Pad U6-7(4078.1mil,5878mil) on Top Layer 1 And Region (0 hole(s)) Top Layer 1 
+   Violation between Clearance Constraint: (9.5mil < 10mil) Between Pad U6-7(4078.1mil,5878mil) on Top Layer 1 And Track (4058.4mil,5878mil)(4059.1mil,5878.7mil) on Top Layer 1 
+   Violation between Clearance Constraint: (9.5mil < 10mil) Between Pad U6-7(4078.1mil,5878mil) on Top Layer 1 And Track (4059.1mil,5878.7mil)(4059.1mil,5885.87mil) on Top Layer 1 
+   Violation between Clearance Constraint: (9.4mil < 10mil) Between Pad U6-7(4078.1mil,5878mil) on Top Layer 1 And Track (4059.1mil,5885.87mil)(4059.2mil,5885.97mil) on Top Layer 1 
+   Violation between Clearance Constraint: (9.4mil < 10mil) Between Pad U6-7(4078.1mil,5878mil) on Top Layer 1 And Track (4059.2mil,5885.97mil)(4059.2mil,5895.663mil) on Top Layer 1 
+   Violation between Clearance Constraint: (9.45mil < 10mil) Between Pad U6-8(4058.4mil,5878mil) on Top Layer 1 And Region (0 hole(s)) Top Layer 1 
+   Violation between Clearance Constraint: (9.45mil < 10mil) Between Pad U6-9(4038.7mil,5878mil) on Top Layer 1 And Region (0 hole(s)) Top Layer 1 
+   Violation between Clearance Constraint: (9.7mil < 10mil) Between Track (3964mil,5804mil)(3979.7mil,5804mil) on Top Layer 1 And Track (3999.4mil,5775.858mil)(3999.4mil,5804mil) on Top Layer 1 
+   Violation between Clearance Constraint: (9.7mil < 10mil) Between Track (4058.4mil,5786.6mil)(4058.4mil,5804mil) on Top Layer 1 And Track (4078.1mil,5804mil)(4078.6mil,5804mil) on Top Layer 1 
+Rule Violations :24
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=8mil) (Max=40mil) (Preferred=10mil) (All)
+   Violation between Width Constraint: Track (2399.7mil,6100.5mil)(2399.891mil,6100.309mil) on Top Layer 1 Actual Width = 6mil, Target Width = 8mil
+   Violation between Width Constraint: Track (2399.891mil,6100.309mil)(2412.462mil,6100.309mil) on Top Layer 1 Actual Width = 6mil, Target Width = 8mil
+   Violation between Width Constraint: Track (2412.462mil,6100.309mil)(2412.653mil,6100.5mil) on Top Layer 1 Actual Width = 6mil, Target Width = 8mil
+   Violation between Width Constraint: Track (2439.047mil,6090mil)(2445mil,6090mil) on Top Layer 1 Actual Width = 6mil, Target Width = 8mil
+Rule Violations :4
+
+Processing Rule : Routing Topology Rule(Topology=Shortest) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=100mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0mil) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+
+Violations Detected : 28
+Waived Violations : 0
+Time Elapsed        : 00:00:02

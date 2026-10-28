@@ -1,0 +1,19 @@
+# Altium libraries and their backup copies are intentionally not published.
+*.[Pp][Cc][Bb][Ll][Ii][Bb]*
+*.[Ss][Cc][Hh][Ll][Ii][Bb]*
+*.[Ii][Nn][Tt][Ll][Ii][Bb]*
+*.[Dd][Bb][Ll][Ii][Bb]*
+*.[Ss][Vv][Nn][Dd][Bb][Ll][Ii][Bb]*
+*.[Ll][Ii][Bb][Pp][Kk][Gg]*
+
+# Local Altium history, logs, previews and temporary files.
+MMT/**/History/
+MMT/**/__Previews/
+MMT/**/Project Logs*/
+MMT/**/*.SchDocPreview
+MMT/**/*.PcbDocPreview
+MMT/**/*.$$$Preview
+MMT/**/*.LOG
+MMT/**/*.Lck
+MMT/**/*.bak
+MMT/**/*.tmp
